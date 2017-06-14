@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoShopper</string>
+    <string name="clarifai_id">C2frOe2W6656ccNjgZfEqXs0M4qPWZTxzJ6FBdwY</string>
+    <string name="clarifai_secret">jKGnryRLfxCwqI2EoXKzje4R1PMrrda3KOQDjnaI</string>
+</resources>
